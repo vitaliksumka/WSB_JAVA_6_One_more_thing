@@ -1,4 +1,4 @@
-## Task_6
+## Task 6
 
 1. Porównać dwa samochody o takich samych wartościach pól
 
